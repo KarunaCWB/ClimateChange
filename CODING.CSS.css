@@ -1,0 +1,63 @@
+p{
+color :black;
+font-size: 20px;
+font-style: none;
+text-decoration: none;
+}
+
+h1{
+   font-size: 70px;
+   font-family: none;
+   color: blue;
+   text-align: center;
+   text-decoration: none;
+}
+
+body{
+  background-color: lightblue;
+}
+h2{
+   font-size: 40px;
+   font-style: none;
+   font-family: none;
+   color: black;
+   text-align: center;
+   text-decoration: none;
+}
+
+.nav{
+    list-style: none;
+    background-color: lightgreen;
+    margin : 0;
+    padding: 0px;
+    overflow: hidden;
+}
+.nav li{
+          float: left;
+          list-style: none;
+}
+.nav li a{
+            display: block;
+            padding: 20px 20px;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+}
+.copyright{
+          list-style: none;
+          background-color: teal;
+          margin: 0;
+          padding: 0px;
+          overflow: hidden;
+}
+.copyright li{
+             float: left;
+             list-style: none;
+}
+.copyright li a{
+               display: block;
+               padding: 20px 20px;
+               color: white;
+               text-align: center;
+               text-decoration: none;
+}
